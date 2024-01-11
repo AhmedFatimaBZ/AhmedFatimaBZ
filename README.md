@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AhmedFatimaBZ
+- 👋 Hi, I’m @Fatima Ahmed 
 - 👀 I’m a data scientist particularly interested in improving lives or driving financial growth
   in technology industries and others in healthcare and finance, where data analysis can have a significant impact.
 - 🌱 I’m currently learning Data Science and Artificial Intelligence at the Tech4Dev Women Fellowship Program.
